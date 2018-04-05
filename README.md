@@ -4,8 +4,9 @@ Random Close Packing codes
 Contact:
 Yixiang Gan
 Email: yixiang.gan@sydney.edu.au
-Address:
+
 School of Civil Engineering
+
 The University of Sydney, NSW 2006, Australia
 
 More details in
